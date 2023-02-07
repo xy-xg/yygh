@@ -1,0 +1,1 @@
+package com.xja.yygh.user.mapper;import com.baomidou.mybatisplus.core.mapper.BaseMapper;import com.xja.yygh.model.user.UserInfo;import org.apache.ibatis.annotations.Mapper;/** * @Author xiaoYan * @Data 2022/12/19 20:40 * 时间不早了  注意休息 */@Mapperpublic interface UserInfoMapper extends BaseMapper<UserInfo> {}

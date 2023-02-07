@@ -1,0 +1,1 @@
+package com.xja.yygh.cmn.mapper;import com.baomidou.mybatisplus.core.mapper.BaseMapper;import com.xja.yygh.model.cmn.Dict;/** * @author xiaoYan */public interface DictMapper extends BaseMapper<Dict> {}

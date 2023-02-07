@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82fb6129-4bf3-453c-a2ae-f24413f4f8e2" name="Changes" comment="再次" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="mybatis-config" />
+        <option value="mybatis-mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\IDE\Git\bin\git.exe" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xiaoyan" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IDE\Util\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Util/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\IDE\Util\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IPQAU7DwfEH4TFAkSsmjWf2jhi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ConfigurationTypeDashboardGroupingRule": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelOrder2": "2",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth2": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/IDE/xiangmu/yygh_parent/service/service_statistics/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.11737089",
+    "project.structure.side.proportion": "0.27827048",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "3c535d6f317bd5970b429e778c5c7ec2",
+    "typescript.add.unambiguous.imports.on.the.fly": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "redis"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xja.yygh.order.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDE\xiangmu\yygh_parent\service\service_cmn\src\main\java" />
+      <recent name="D:\IDE\xiangmu\yygh_parent\service\service-statistics\src\main\resources" />
+      <recent name="D:\IDE\xiangmu\yygh_parent\service\service-task\src\main\java\com\xja\yygh\task" />
+      <recent name="D:\IDE\xiangmu\yygh_parent\service\service-task\src\main\resources" />
+      <recent name="D:\IDE\xiangmu\yygh_parent\service\service-order\src\main\java\com\xja\yygh\order" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDE\xiangmu\yygh_parent\service\service_user\src\main\java\com\xja\yygh\user" />
+      <recent name="D:\IDE\xiangmu\yygh_parent\service\service_hosp\src\main\java\com\xja\yygh\mapper\xml" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="test" />
+      <recent name="com.xja.yygh.msm" />
+      <recent name="com.xja.yygh" />
+      <recent name="com.xja.yygh.cmn.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceHospApplication">
+    <configuration name="ManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hosptail_manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.hospital.ManageApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xja.hospital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.yygh.gateway.ServerGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCmnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_cmn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.yygh.cmn.ServiceCmnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceHospApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_hosp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.yygh.hosp.ServiceHospApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xja.yygh.hosp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMsmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_msm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.yygh.msm.ServiceMsmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.yygh.order.ServiceOrderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xja.yygh.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.yygh.oss.ServiceOssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceStatisticsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.ServiceStatisticsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.yygh.task.ServiceTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xja.yygh.user.ServiceUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServerGatewayApplication" />
+      <item itemvalue="Spring Boot.ServiceCmnApplication" />
+      <item itemvalue="Spring Boot.ServiceMsmApplication" />
+      <item itemvalue="Spring Boot.ServiceOssApplication" />
+      <item itemvalue="Spring Boot.ServiceTaskApplication" />
+      <item itemvalue="Spring Boot.ServiceUserApplication" />
+      <item itemvalue="Spring Boot.ManageApplication" />
+      <item itemvalue="Spring Boot.ServiceHospApplication" />
+      <item itemvalue="Spring Boot.ServiceOrderApplication" />
+      <item itemvalue="Spring Boot.ServiceStatisticsApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceOrderApplication" />
+        <item itemvalue="Spring Boot.ManageApplication" />
+        <item itemvalue="Spring Boot.ServiceHospApplication" />
+        <item itemvalue="Spring Boot.ServiceStatisticsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\xiaoYan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82fb6129-4bf3-453c-a2ae-f24413f4f8e2" name="Changes" comment="" />
+      <created>1670080594928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670080594928</updated>
+      <workItem from="1670080596167" duration="2655000" />
+      <workItem from="1670083431041" duration="645000" />
+      <workItem from="1670122576891" duration="13938000" />
+      <workItem from="1670145044807" duration="3214000" />
+      <workItem from="1670208142792" duration="11728000" />
+      <workItem from="1670292366751" duration="8407000" />
+      <workItem from="1670311065770" duration="8048000" />
+      <workItem from="1670334281986" duration="1806000" />
+      <workItem from="1670336453860" duration="2044000" />
+      <workItem from="1670375004356" duration="9915000" />
+      <workItem from="1671199111846" duration="1881000" />
+      <workItem from="1671201020824" duration="91000" />
+      <workItem from="1671201121484" duration="84000" />
+      <workItem from="1671201323904" duration="383000" />
+      <workItem from="1671201790861" duration="1261000" />
+      <workItem from="1671203147789" duration="791000" />
+      <workItem from="1671240979723" duration="335000" />
+      <workItem from="1671241374218" duration="126000" />
+      <workItem from="1671241513985" duration="860000" />
+      <workItem from="1671242400235" duration="896000" />
+      <workItem from="1671243325370" duration="11675000" />
+      <workItem from="1671331284020" duration="1205000" />
+      <workItem from="1671415801642" duration="12945000" />
+      <workItem from="1671504280398" duration="16512000" />
+      <workItem from="1671523184179" duration="523000" />
+      <workItem from="1671524065112" duration="3069000" />
+      <workItem from="1671595596375" duration="10779000" />
+      <workItem from="1671671433165" duration="30286000" />
+      <workItem from="1671712662341" duration="112000" />
+      <workItem from="1671712785190" duration="47000" />
+      <workItem from="1671712847141" duration="287000" />
+      <workItem from="1671713190231" duration="188000" />
+      <workItem from="1671713780170" duration="2511000" />
+      <workItem from="1671756616272" duration="22000" />
+      <workItem from="1671756651246" duration="22847000" />
+      <workItem from="1671785884158" duration="1133000" />
+      <workItem from="1671788640489" duration="638000" />
+      <workItem from="1671801618615" duration="1743000" />
+      <workItem from="1671842984386" duration="55000" />
+      <workItem from="1671843669897" duration="1957000" />
+      <workItem from="1671850657539" duration="760000" />
+      <workItem from="1671863374125" duration="600000" />
+      <workItem from="1671867028053" duration="9000" />
+      <workItem from="1671874688610" duration="54000" />
+      <workItem from="1671876517261" duration="21000" />
+      <workItem from="1672028261854" duration="22671000" />
+      <workItem from="1672056831305" duration="7454000" />
+      <workItem from="1672064325357" duration="129000" />
+      <workItem from="1672064466407" duration="6000" />
+      <workItem from="1672064791064" duration="592000" />
+      <workItem from="1672108043249" duration="13377000" />
+      <workItem from="1672122097508" duration="510000" />
+      <workItem from="1672123062235" duration="4933000" />
+      <workItem from="1672128021595" duration="51000" />
+      <workItem from="1672128705962" duration="5940000" />
+      <workItem from="1672186967777" duration="852000" />
+      <workItem from="1672194274393" duration="4803000" />
+      <workItem from="1672207312890" duration="4894000" />
+      <workItem from="1672212376105" duration="4459000" />
+      <workItem from="1672366713827" duration="18000" />
+      <workItem from="1672366835966" duration="1208000" />
+      <workItem from="1672554476701" duration="1964000" />
+      <workItem from="1672739336665" duration="8000" />
+      <workItem from="1672739375313" duration="2000" />
+      <workItem from="1672741171352" duration="739000" />
+      <workItem from="1672814790709" duration="97000" />
+      <workItem from="1672815874202" duration="7000" />
+      <workItem from="1673002425966" duration="306000" />
+      <workItem from="1673003012749" duration="514000" />
+      <workItem from="1673003728533" duration="577000" />
+      <workItem from="1673004340855" duration="30000" />
+      <workItem from="1673004457903" duration="3494000" />
+      <workItem from="1673068620797" duration="1557000" />
+      <workItem from="1673072339889" duration="551000" />
+      <workItem from="1673073207495" duration="78000" />
+      <workItem from="1673073625034" duration="4879000" />
+      <workItem from="1673269551517" duration="14000" />
+      <workItem from="1673404752401" duration="95000" />
+      <workItem from="1673494216942" duration="42000" />
+      <workItem from="1673583763927" duration="2197000" />
+      <workItem from="1673587226103" duration="1770000" />
+      <workItem from="1673943594854" duration="40000" />
+      <workItem from="1674032693293" duration="611000" />
+      <workItem from="1674106552955" duration="598000" />
+      <workItem from="1674120522062" duration="9000" />
+      <workItem from="1675040974821" duration="1192000" />
+      <workItem from="1675043908075" duration="4395000" />
+      <workItem from="1675051285626" duration="5224000" />
+      <workItem from="1675166661276" duration="2127000" />
+      <workItem from="1675169187769" duration="630000" />
+      <workItem from="1675169863705" duration="1284000" />
+      <workItem from="1675171165222" duration="323000" />
+      <workItem from="1675232900145" duration="10000" />
+      <workItem from="1675331024427" duration="114000" />
+      <workItem from="1675430579381" duration="33000" />
+      <workItem from="1675498135536" duration="36000" />
+      <workItem from="1675566359031" duration="22000" />
+      <workItem from="1675568743144" duration="546000" />
+      <workItem from="1675734418637" duration="1100000" />
+      <workItem from="1675735736715" duration="916000" />
+      <workItem from="1675739545928" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="one">
+      <created>1670081286844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670081286844</updated>
+    </task>
+    <task id="LOCAL-00002" summary="one">
+      <created>1670081363163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670081363163</updated>
+    </task>
+    <task id="LOCAL-00003" summary="one">
+      <created>1670081726530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670081726530</updated>
+    </task>
+    <task id="LOCAL-00004" summary="one">
+      <created>1670083120359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670083120359</updated>
+    </task>
+    <task id="LOCAL-00005" summary="one">
+      <created>1670083395071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670083395071</updated>
+    </task>
+    <task id="LOCAL-00006" summary="one">
+      <created>1670083441462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670083441462</updated>
+    </task>
+    <task id="LOCAL-00007" summary="one">
+      <created>1670083655346</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670083655346</updated>
+    </task>
+    <task id="LOCAL-00008" summary="one">
+      <created>1670083953603</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670083953603</updated>
+    </task>
+    <task id="LOCAL-00009" summary="one">
+      <created>1670321745427</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670321745427</updated>
+    </task>
+    <task id="LOCAL-00010" summary="one">
+      <created>1670378336256</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670378336256</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial commit">
+      <created>1671243685081</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671243685081</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial commit">
+      <created>1671243735361</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671243735361</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Initial commit">
+      <created>1671244042849</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671244042849</updated>
+    </task>
+    <task id="LOCAL-00014" summary="再次">
+      <created>1671244074255</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671244074255</updated>
+    </task>
+    <task id="LOCAL-00015" summary="再次">
+      <created>1671525659000</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671525659000</updated>
+    </task>
+    <task id="LOCAL-00016" summary="再次">
+      <created>1671525675983</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1671525675983</updated>
+    </task>
+    <task id="LOCAL-00017" summary="完结前">
+      <created>1672065038476</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672065038476</updated>
+    </task>
+    <task id="LOCAL-00018" summary="完结前">
+      <created>1672065220099</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1672065220099</updated>
+    </task>
+    <task id="LOCAL-00019" summary="完结前">
+      <created>1672065252330</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1672065252330</updated>
+    </task>
+    <task id="LOCAL-00020" summary="完结前">
+      <created>1672065266412</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672065266412</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="cc121d02-7dc0-4ead-ab34-7f07f1ada646">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="cc121d02-7dc0-4ead-ab34-7f07f1ada646" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="one" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="完结前" />
+    <MESSAGE value="完结" />
+    <MESSAGE value="再次" />
+    <option name="LAST_COMMIT_MESSAGE" value="再次" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/xja/yygh/hosp/service/imp/ScheduleServiceImp.java</url>
+          <line>369</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/xja/yygh/hosp/service/imp/HospitalServiceImp.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_hosp/src/main/java/com/xja/yygh/hosp/service/imp/ScheduleServiceImp.java</url>
+          <line>329</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

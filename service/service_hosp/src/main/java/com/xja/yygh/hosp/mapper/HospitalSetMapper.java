@@ -1,0 +1,1 @@
+package com.xja.yygh.hosp.mapper;import com.baomidou.mybatisplus.core.mapper.BaseMapper;import com.xja.yygh.model.hosp.HospitalSet;/** * @author xiaoYan */public interface HospitalSetMapper extends BaseMapper<HospitalSet> {}

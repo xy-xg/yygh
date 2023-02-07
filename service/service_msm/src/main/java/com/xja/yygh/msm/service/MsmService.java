@@ -1,0 +1,1 @@
+package com.xja.yygh.msm.service;import com.xja.yygh.vo.msm.MsmVo;/** * @Author xiaoYan * @Data 2022/12/20 13:13 * 时间不早了  注意休息 */public interface MsmService {    boolean  send(String phone, String code);    //mq使用发送信息    boolean send(MsmVo msmVo);}

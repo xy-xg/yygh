@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service_user" />
+        <module name="service_hosp_client" />
+        <module name="service-cmn-client" />
+        <module name="rabbit_util" />
+        <module name="service_msm" />
+        <module name="service_order" />
+        <module name="service_cmn" />
+        <module name="service_gateway" />
+        <module name="common_util" />
+        <module name="hosptail_manage" />
+        <module name="service_oss" />
+        <module name="service_order_client" />
+        <module name="service_user_client" />
+        <module name="service_statistics" />
+        <module name="service_task" />
+        <module name="model" />
+        <module name="service_cmn_client" />
+        <module name="service_util" />
+        <module name="service_hosp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hosptail-manage" target="1.8" />
+      <module name="rabbit-util" target="1.8" />
+      <module name="service-cmn" target="1.8" />
+      <module name="service-hosp" target="1.8" />
+      <module name="service-order" target="1.8" />
+      <module name="service-oss" target="1.8" />
+      <module name="service-statistics" target="1.8" />
+      <module name="service-task" target="1.8" />
+      <module name="yygh_parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common_util" options="-parameters" />
+      <module name="hosptail-manage" options="-parameters" />
+      <module name="hosptail_manage" options="-parameters" />
+      <module name="model" options="-parameters" />
+      <module name="rabbit-util" options="-parameters" />
+      <module name="rabbit_util" options="-parameters" />
+      <module name="service-cmn" options="-parameters" />
+      <module name="service-cmn-client" options="-parameters" />
+      <module name="service-hosp" options="-parameters" />
+      <module name="service-order" options="-parameters" />
+      <module name="service-oss" options="-parameters" />
+      <module name="service-statistics" options="-parameters" />
+      <module name="service-task" options="-parameters" />
+      <module name="service_cmn" options="-parameters" />
+      <module name="service_cmn_client" options="-parameters" />
+      <module name="service_gateway" options="-parameters" />
+      <module name="service_hosp" options="-parameters" />
+      <module name="service_hosp_client" options="-parameters" />
+      <module name="service_msm" options="-parameters" />
+      <module name="service_order" options="-parameters" />
+      <module name="service_order_client" options="-parameters" />
+      <module name="service_oss" options="-parameters" />
+      <module name="service_statistics" options="-parameters" />
+      <module name="service_task" options="-parameters" />
+      <module name="service_user" options="-parameters" />
+      <module name="service_user_client" options="-parameters" />
+      <module name="service_util" options="-parameters" />
+      <module name="yygh_parent" options="" />
+    </option>
+  </component>
+</project>
