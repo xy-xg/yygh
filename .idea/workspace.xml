@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82fb6129-4bf3-453c-a2ae-f24413f4f8e2" name="Changes" comment="再次" />
+    <list default="true" id="82fb6129-4bf3-453c-a2ae-f24413f4f8e2" name="Changes" comment="再次">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_msm/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -359,7 +363,7 @@
       <workItem from="1675568743144" duration="546000" />
       <workItem from="1675734418637" duration="1100000" />
       <workItem from="1675735736715" duration="916000" />
-      <workItem from="1675739545928" duration="13000" />
+      <workItem from="1675739545928" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="one">
       <created>1670081286844</created>
